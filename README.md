@@ -1,7 +1,3 @@
-Below is a sample **README.md** that you can place in the root of your GitHub repository for this project. Feel free to customize sections (such as installation steps, screenshots, etc.) to suit your needs.
-
----
-
 # Activity Log Prototype
 
 This repository contains a **Python prototype application** for loading, cleaning, transforming, and analyzing online activity logs in a blended university course. The application is designed to run in **JupyterLab** under a compatible Python environment (3.7–3.10). It provides a **Tkinter**-based graphical user interface to:
